@@ -1,1 +1,1 @@
-print("Hello from Git + Jenkins!")
+print("Zmiana testowa dla webhooka!")
