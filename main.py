@@ -1,1 +1,2 @@
-print("Zmiana testowa dla webhooka!!")
+def add(a, b):
+    return a + b
